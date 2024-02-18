@@ -1,0 +1,7 @@
+setup.py
+firstlib/firstlib.egg-info/PKG-INFO
+firstlib/firstlib.egg-info/SOURCES.txt
+firstlib/firstlib.egg-info/dependency_links.txt
+firstlib/firstlib.egg-info/top_level.txt
+firstlib/library1/__init__.py
+firstlib/library1/function1.py

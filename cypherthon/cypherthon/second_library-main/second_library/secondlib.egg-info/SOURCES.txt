@@ -1,0 +1,8 @@
+setup.py
+second_library/seclib/__init__.py
+second_library/seclib/library2/__init__.py
+second_library/seclib/library2/maxtrix_deter.py
+second_library/secondlib.egg-info/PKG-INFO
+second_library/secondlib.egg-info/SOURCES.txt
+second_library/secondlib.egg-info/dependency_links.txt
+second_library/secondlib.egg-info/top_level.txt

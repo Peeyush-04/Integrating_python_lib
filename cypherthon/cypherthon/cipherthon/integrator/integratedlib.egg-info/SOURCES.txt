@@ -1,0 +1,12 @@
+setup.py
+integrator/integratedlib/__init__.py
+integrator/integratedlib.egg-info/PKG-INFO
+integrator/integratedlib.egg-info/SOURCES.txt
+integrator/integratedlib.egg-info/dependency_links.txt
+integrator/integratedlib.egg-info/top_level.txt
+integrator/integratedlib/library1/__init__.py
+integrator/integratedlib/library1/function1.py
+integrator/integratedlib/library2/__init__.py
+integrator/integratedlib/library2/maxtrix_deter.py
+integrator/integratedlib/library3/__init__.py
+integrator/integratedlib/library3/sklearn_func.py

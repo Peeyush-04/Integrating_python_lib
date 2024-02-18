@@ -1,0 +1,8 @@
+setup.py
+third_library/thirdlib/__init__.py
+third_library/thirdlib.egg-info/PKG-INFO
+third_library/thirdlib.egg-info/SOURCES.txt
+third_library/thirdlib.egg-info/dependency_links.txt
+third_library/thirdlib.egg-info/top_level.txt
+third_library/thirdlib/library3/__init__.py
+third_library/thirdlib/library3/numpyarr.py

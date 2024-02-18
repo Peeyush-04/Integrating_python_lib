@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: firstlib
+Version: 0.0.1
+Summary: An id generator that generated various types and lengths ids
+Author: GGEZ
+Author-email: sethukumars774@gmail.com
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
